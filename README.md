@@ -1,15 +1,15 @@
-# Hi, I'm Vigan Ibrahimi
+# Vigan Ibrahimi 👋
 
-**Frontend & Full-Stack Developer · Prishtina, Kosovo**
+**Frontend & full-stack developer · Prishtina, Kosovo**
 
-I build web applications with React, Next.js and TypeScript, and backend systems with Node.js and NestJS. I have 5+ years of professional experience working on restaurant platforms, workflow automation and internal business tools.
+I build web apps with React and TypeScript, and the APIs and background systems behind them.
 
-I enjoy working across the whole product: making the interface clear, designing the API and data model, and handling what happens when a background job fails or a service restarts.
+- 🛠️ Currently building [Pertexo](https://github.com/vigani1/pertexo), a visual workflow automation platform.
+- 💻 Mostly working with React, Next.js, Node.js and NestJS.
+- 🎮 Away from the editor: games, TV series and the occasional book.
+- 🌍 Open to remote frontend and full-stack opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vigan%20Ibrahimi-0A66C2?style=flat-square)](https://www.linkedin.com/in/vigan-ibrahimi-07a196161/)
-[![GitHub](https://img.shields.io/badge/GitHub-vigani1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vigani1)
-
-## What I work with
+### My stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -19,30 +19,8 @@ I enjoy working across the whole product: making the interface clear, designing 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, React Flow
-- **Backend:** Node.js, NestJS, REST APIs, authentication and access control
-- **Data & background work:** PostgreSQL, Redis, BullMQ, durable jobs and workflow execution
+### On GitHub
 
-## Selected projects
+![GitHub activity snapshot: 596 contributions over the past year, 4 public repositories and 2 stars across public repositories. Updated November 2, 2026.](assets/github-activity.svg)
 
-### [Pertexo](https://github.com/vigani1/pertexo)
-
-A multi-tenant workflow automation platform with a visual editor and its own execution engine. Build workflows, publish immutable versions and follow each run through a live execution timeline.
-
-The engineering focus is reliable execution: PostgreSQL checkpoints, recoverable workers, transactional outbox delivery and workspace isolation.
-
-**React · TypeScript · React Flow · NestJS · PostgreSQL · Redis · BullMQ**
-
-[![Pertexo workflow editor](https://raw.githubusercontent.com/vigani1/pertexo/HEAD/docs/media/editor.png)](https://github.com/vigani1/pertexo)
-
-### [Arcanis API](https://github.com/vigani1/arcanis-api)
-
-A modular healthcare backend covering organizations, appointments, medical records and patient-controlled record sharing. It includes access grants, released-record snapshots, audit trails and durable notification jobs, with separate API and worker processes.
-
-**NestJS · TypeScript · PostgreSQL · Prisma · Redis · BullMQ**
-
-## Background
-
-Previously at **Rhenum (a Speeex company)** and **AutomatedPros**, working on web applications, connected restaurant ordering workflows and visual workflow tools.
-
-I'm open to remote frontend and full-stack opportunities. You can reach me on [LinkedIn](https://www.linkedin.com/in/vigan-ibrahimi-07a196161/).
+[![LinkedIn](https://img.shields.io/badge/Let%E2%80%99s_connect-LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/vigan-ibrahimi-07a196161/)
