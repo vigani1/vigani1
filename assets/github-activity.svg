@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="166" viewBox="0 0 720 166" role="img" aria-labelledby="title desc">
+<title id="title">Vigan's GitHub activity</title>
+<desc id="desc">596 contributions over the past year, 4 public repositories, 2 stars across public repositories. Snapshot taken November 2, 2026.</desc>
+<rect x="1" y="1" width="718" height="164" rx="14" fill="#0d1117" stroke="#30363d"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+<text x="28" y="31" font-size="12" fill="#8b949e" letter-spacing="1.5">BUILDING IN PUBLIC</text>
+<path d="M264 53v62 M489 53v62" stroke="#30363d"/>
+<g fill="#e6edf3" font-size="34" font-weight="600"><text x="28" y="88">596</text><text x="292" y="88">4</text><text x="517" y="88">2</text></g>
+<g fill="#8b949e" font-size="13"><text x="28" y="112">contributions · past year</text><text x="292" y="112">public repositories</text><text x="517" y="112">repository stars</text></g>
+<circle cx="31" cy="143" r="3" fill="#58a6ff"/><text x="42" y="147" font-size="11" fill="#8b949e">Snapshot · 2 November 2026</text>
+</g></svg>
