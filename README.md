@@ -19,8 +19,4 @@ I build web apps with React and TypeScript, and the APIs and background systems 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### On GitHub
-
-![GitHub activity snapshot: 596 contributions over the past year, 4 public repositories and 2 stars across public repositories. Updated November 2, 2026.](assets/github-activity.svg)
-
 [![LinkedIn](https://img.shields.io/badge/Let%E2%80%99s_connect-LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/vigan-ibrahimi-07a196161/)
