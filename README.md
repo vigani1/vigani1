@@ -4,6 +4,8 @@
 
 I build web apps, visual workflow tools and the backend systems behind them. Mostly working with TypeScript, React, Next.js and NestJS.
 
+- 🎮 Outside coding: gaming, TV series and occasional reading.
+
 ### Things I'm building
 
 - **[Pertexo](https://github.com/vigani1/pertexo)** — a visual workflow automation platform with its own execution engine.
@@ -19,7 +21,5 @@ I build web apps, visual workflow tools and the backend systems behind them. Mos
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-Away from the editor: games, TV series and the occasional book.
 
 [LinkedIn](https://www.linkedin.com/in/vigan-ibrahimi-07a196161/) · [Email](mailto:vigan70@gmail.com) · [Résumé](Vigan_Ibrahimi_Resume.pdf)
