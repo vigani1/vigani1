@@ -1,13 +1,14 @@
 # Vigan Ibrahimi 👋
 
-**Frontend & full-stack developer · Prishtina, Kosovo**
+**Full-stack developer · Prishtina, Kosovo**
 
-I build web apps with React and TypeScript, and the APIs and background systems behind them.
+I build web apps, visual workflow tools and the backend systems behind them. Mostly working with TypeScript, React, Next.js and NestJS.
 
-- 🛠️ Currently building [Pertexo](https://github.com/vigani1/pertexo), a visual workflow automation platform.
-- 💻 Mostly working with React, Next.js, Node.js and NestJS.
-- 🎮 Away from the editor: games, TV series and the occasional book.
-- 🌍 Open to remote frontend and full-stack opportunities.
+### Things I'm building
+
+- **[Pertexo](https://github.com/vigani1/pertexo)** — a visual workflow automation platform with its own execution engine.
+- **[Arcanis API](https://github.com/vigani1/arcanis-api)** — a healthcare backend with patient-controlled record sharing and audit trails.
+- **Echomed** — a website for a medical laboratory. Private repository.
 
 ### My stack
 
@@ -19,4 +20,6 @@ I build web apps with React and TypeScript, and the APIs and background systems 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/Let%E2%80%99s_connect-LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/vigan-ibrahimi-07a196161/)
+Away from the editor: games, TV series and the occasional book.
+
+[LinkedIn](https://www.linkedin.com/in/vigan-ibrahimi-07a196161/) · [Email](mailto:vigan70@gmail.com)
