@@ -22,4 +22,4 @@ I build web apps, visual workflow tools and the backend systems behind them. Mos
 
 Away from the editor: games, TV series and the occasional book.
 
-[LinkedIn](https://www.linkedin.com/in/vigan-ibrahimi-07a196161/) · [Email](mailto:vigan70@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vigan-ibrahimi-07a196161/) · [Email](mailto:vigan70@gmail.com) · [Résumé](https://docs.google.com/document/d/1KqZN1-aXXcjvrdUKPnUzcuE-vTj1tVembMcn9iT20To/view)
