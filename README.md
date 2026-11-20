@@ -8,11 +8,14 @@ Currently building at **AutomatedPros** (remote) and tinkering with way too many
 
 ### 🛠 Stuff I've built
 
-| | |
-|---|---|
-| 🧪 **[Analyte](https://github.com/vigani1/analyte)** | Sits on the lab PC and talks to each analyzer in its own protocol (ASTM, HL7, IHE LAW, POCT1-A…), stores every message safely, and hands results to any lab app. Written in Rust, with a Tauri tray app. |
-| ⚙️ **[Pertexo](https://github.com/vigani1/pertexo)** | Visual workflow automation: drag nodes in React Flow, a NestJS engine runs them, and it survives worker restarts and Redis dying. |
-| 🏥 **[Arcanis](https://github.com/vigani1/arcanis-api)** | Healthcare backend where patients decide who sees their records. Expiring grants, snapshots, audit logs. |
+🧪 **[Analyte](https://github.com/vigani1/analyte)**<br>
+Lab analyzers all speak different dialects (ASTM, HL7, POCT1-A…). Analyte sits on the lab PC, talks to each one in its own language, and passes results to the lab software. Rust core, Tauri tray app, zero lost messages.
+
+⚙️ **[Pertexo](https://github.com/vigani1/pertexo)**<br>
+Drag boxes, connect arrows, hit run. A workflow builder whose engine shrugs off crashed workers and a disappearing Redis.
+
+🏥 **[Arcanis](https://github.com/vigani1/arcanis-api)**<br>
+A healthcare backend where *patients* decide which doctors see their records, and every peek gets logged.
 
 ### 🤖 Lately
 
