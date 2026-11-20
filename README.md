@@ -34,8 +34,8 @@ Building with LLMs (OpenAI, Anthropic, Azure AI): tool calling, structured outpu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-### 🎮 Off the keyboard
+### 🐇 Off the keyboard
 
-Gaming, a TV series backlog that never shrinks, and the occasional book.
+I'm curious about pretty much everything. Once something grabs my attention, code or not, I'll happily lose a few hours digging into how it works. Otherwise: gaming, a TV series backlog that never shrinks, and the occasional book.
 
 📫 [LinkedIn](https://www.linkedin.com/in/vigan-ibrahimi-07a196161/) · [Email](mailto:vigan70@gmail.com) · [Résumé](Vigan_Ibrahimi_Resume.pdf) · Open to remote roles
