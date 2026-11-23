@@ -9,13 +9,16 @@ Usually tinkering with way too many side projects.
 ### 🛠 Stuff I've built
 
 🧪 **[Analyte](https://github.com/vigani1/analyte)**<br>
-Lab analyzers all speak different dialects (ASTM, HL7, POCT1-A…). Analyte sits on the lab PC, talks to each one in its own language, and passes results to the lab software. Rust core, Tauri tray app, zero lost messages.
+Lab analyzers all speak different dialects (ASTM, HL7, POCT1-A…). Analyte sits on the lab PC, talks to each one in its own language, and passes results to the lab software. Zero lost messages.<br>
+`Rust` `Tauri` `SQLite` `Tokio`
 
 ⚙️ **[Pertexo](https://github.com/vigani1/pertexo)**<br>
-Drag boxes, connect arrows, hit run. A workflow builder whose engine shrugs off crashed workers and a disappearing Redis.
+Drag boxes, connect arrows, hit run. A workflow builder whose engine shrugs off crashed workers and a disappearing Redis.<br>
+`NestJS` `React` `React Flow` `BullMQ` `Redis` `PostgreSQL`
 
 🏥 **[Arcanis](https://github.com/vigani1/arcanis-api)**<br>
-What if your health records followed *you*, not the hospital? You carry your full history everywhere, any doctor you allow gets instant real-time access, and each doctor keeps only the records they've worked on, not everything. Plus, you see exactly who peeked.
+What if your health records followed *you*, not the hospital? You carry your full history everywhere, any doctor you allow gets instant real-time access, and each doctor keeps only the records they've worked on, not everything. Plus, you see exactly who peeked.<br>
+`NestJS` `PostgreSQL` `Prisma` `BullMQ` `Redis`
 
 ### 🤖 Lately
 
