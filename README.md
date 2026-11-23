@@ -15,7 +15,7 @@ Lab analyzers all speak different dialects (ASTM, HL7, POCT1-A…). Analyte sits
 Drag boxes, connect arrows, hit run. A workflow builder whose engine shrugs off crashed workers and a disappearing Redis.
 
 🏥 **[Arcanis](https://github.com/vigani1/arcanis-api)**<br>
-A healthcare backend where *patients* decide which doctors see their records, and every peek gets logged.
+What if your health records followed *you*, not the hospital? You carry your full history everywhere, any doctor you allow gets instant real-time access, and each doctor keeps only the records they've worked on, not everything. Plus, you see exactly who peeked.
 
 ### 🤖 Lately
 
