@@ -1,10 +1,10 @@
 # Hey, I'm Vigan 👋
 
-Full-stack engineer from Prishtina 🇽🇰 who enjoys the **messy middle of software**:
+Full-stack engineer from Prishtina, Kosovo, who enjoys the **messy middle of software**:
 real-time data, workflows that can't lose a step, and systems that keep going when things break.
 
 ~6 years of turning that into React + Node.js products people actually use every day.
-Currently building at **AutomatedPros** (remote) and tinkering with way too many side projects.
+Usually tinkering with way too many side projects.
 
 ### 🛠 Stuff I've built
 
