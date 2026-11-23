@@ -20,6 +20,10 @@ Drag boxes, connect arrows, hit run. A workflow builder whose engine shrugs off 
 What if your health records followed *you*, not the hospital? You carry your full history everywhere, any doctor you allow gets instant real-time access, and each doctor keeps only the records they've worked on, not everything. Plus, you see exactly who peeked.<br>
 `NestJS` `PostgreSQL` `Prisma` `BullMQ` `Redis`
 
+🔎 **[Lead Finder](https://github.com/vigani1/bpo-lead-finder)**<br>
+Finds call centers running US insurance campaigns, the hard way: it searches job ads and company sites, lets an LLM read every page, and returns each match with the exact quote that proves it and a confidence score. No hallucinated leads, only receipts.<br>
+`Next.js` `TypeScript` `PostgreSQL` `Drizzle` `LLMs` `Tavily` `Exa`
+
 ### 🤖 Lately
 
 Building with LLMs (OpenAI, Anthropic, Azure AI): tool calling, structured outputs, and AI as a daily coding sidekick.
